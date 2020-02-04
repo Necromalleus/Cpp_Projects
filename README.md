@@ -1,4 +1,4 @@
-# Cpp_Projects
+# Salary_Program
 
 This program takes in the number of hours you've worked for the week with your base pay rate and outputs your gross income for the week. 
 You can enter anything for the employee ID number. Its purely asthetic.
